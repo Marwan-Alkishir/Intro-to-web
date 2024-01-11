@@ -14,7 +14,68 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 opacity: 0.5;
 }
 
+.Thick-sss{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+opacity: 0.7;
 
+
+}
+
+.Contact---Headings10{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	opacity: 0.5;
+color: white;
+font-size: large;
+ margin: 250px;  
+  margin-left:  735px;
+
+}
+.Body---Contact{
+ background-repeat: no-repeat;
+background-color: #000;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Thick-lsss{
+
+
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	opacity: 0.7;
+
+font-size: xx-large;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 /* Starting Of Top 10 image*/
 .imAim {
 	/* Additional styling for image container (optional) */
